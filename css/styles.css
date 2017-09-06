@@ -1,0 +1,14 @@
+.important {
+  color: blue;
+  font-style: italic;
+}
+
+.meh {
+  font-style: normal;
+  color: black;
+}
+
+.special {
+  font-style: italic;
+  color: red;
+}
